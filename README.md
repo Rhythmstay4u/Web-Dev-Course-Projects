@@ -19,7 +19,7 @@ The projects cover a wide range of topics including:
 
 1. Clone the repository to your local machine using:
     ```sh
-    git clone https://github.com/your-username/Web-Dev-Course-Projects.git
+    git clone https://github.com/Rhythmstay4u/Web-Dev-Course-Projects.git
     ```
 2. Navigate to the project directory you are interested in.
 3. Open the project files in your preferred code editor to view and edit the code.
